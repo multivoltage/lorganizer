@@ -5,3 +5,8 @@
 html, body {
     font-family: "Roboto",Arial;
 }
+
+#root {
+    max-width: 768px;
+    margin: 0 auto;
+}
