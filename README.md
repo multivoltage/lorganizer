@@ -1,2 +1,4 @@
 # lorganizer
-pleas max update this description
+### Load organising made smart :)
+
+_TBD_
